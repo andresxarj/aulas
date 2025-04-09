@@ -1,0 +1,22 @@
+.imagem-container{
+background-image: url("../jp_topoFundo.jpg");
+width: 900px;
+height: 200px;
+}
+
+
+
+.imagem-sobreposta{
+position: relative;
+top: 15px;
+
+}
+.menufundo{
+float: right;
+margin-top: 40px;
+
+}
+body{
+background-color: rgb(2, 42, 2);
+
+}
